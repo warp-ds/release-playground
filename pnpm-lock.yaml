@@ -1,9 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@semantic-release/changelog': github:semantic-release/changelog
+  '@semantic-release/git': github:semantic-release/git
   semantic-release: ^20.1.1
 
 devDependencies:
+  '@semantic-release/changelog': github.com/semantic-release/changelog/226d4e7fd1a8f0220f45759d87dfe48cf7e485c4_semantic-release@20.1.1
+  '@semantic-release/git': github.com/semantic-release/git/83504031c241ccfd2131c0eed20d680557f97646_semantic-release@20.1.1
   semantic-release: 20.1.1
 
 packages:
@@ -1621,6 +1625,11 @@ packages:
       aggregate-error: 3.1.0
     dev: true
 
+  /p-reduce/2.1.0:
+    resolution: {integrity: sha512-2USApvnsutq8uoxZBGbbWM0JIYLiEMJ9RlaN7fAzVNb9OZN0SHjjTTfIcb667XynS5Y1VhwDJVDa72TnPzAYWw==}
+    engines: {node: '>=8'}
+    dev: true
+
   /p-reduce/3.0.0:
     resolution: {integrity: sha512-xsrIUgI0Kn6iyDYm9StOpOeK29XM1aboGji26+QEortiFST1hGZaUQOLhtEbqHErPpGW/aSz6allwK2qcptp0Q==}
     engines: {node: '>=12'}
@@ -2332,4 +2341,42 @@ packages:
   /yocto-queue/1.0.0:
     resolution: {integrity: sha512-9bnSc/HEW2uRy67wc+T8UwauLuPJVn28jb+GtJY16iiKWyvmYJRXVT4UamsAEGQfPohgr2q4Tq0sQbQlxTfi1g==}
     engines: {node: '>=12.20'}
+    dev: true
+
+  github.com/semantic-release/changelog/226d4e7fd1a8f0220f45759d87dfe48cf7e485c4_semantic-release@20.1.1:
+    resolution: {tarball: https://codeload.github.com/semantic-release/changelog/tar.gz/226d4e7fd1a8f0220f45759d87dfe48cf7e485c4}
+    id: github.com/semantic-release/changelog/226d4e7fd1a8f0220f45759d87dfe48cf7e485c4
+    name: '@semantic-release/changelog'
+    version: 0.0.0-development
+    engines: {node: '>=14.17'}
+    peerDependencies:
+      semantic-release: '>=18.0.0'
+    dependencies:
+      '@semantic-release/error': 3.0.0
+      aggregate-error: 3.1.0
+      fs-extra: 11.1.0
+      lodash: 4.17.21
+      semantic-release: 20.1.1
+    dev: true
+
+  github.com/semantic-release/git/83504031c241ccfd2131c0eed20d680557f97646_semantic-release@20.1.1:
+    resolution: {tarball: https://codeload.github.com/semantic-release/git/tar.gz/83504031c241ccfd2131c0eed20d680557f97646}
+    id: github.com/semantic-release/git/83504031c241ccfd2131c0eed20d680557f97646
+    name: '@semantic-release/git'
+    version: 0.0.0-development
+    engines: {node: '>=14.17'}
+    peerDependencies:
+      semantic-release: '>=18.0.0'
+    dependencies:
+      '@semantic-release/error': 3.0.0
+      aggregate-error: 3.1.0
+      debug: 4.3.4
+      dir-glob: 3.0.1
+      execa: 5.1.1
+      lodash: 4.17.21
+      micromatch: 4.0.5
+      p-reduce: 2.1.0
+      semantic-release: 20.1.1
+    transitivePeerDependencies:
+      - supports-color
     dev: true
