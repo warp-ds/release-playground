@@ -1,0 +1,13 @@
+{
+  "name": "release-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^20.1.1"
+  }
+}
