@@ -1,5 +1,5 @@
 {
-  "name": "release-playground",
+  "name": "@warp-ds/release-playground",
   "repository": "git@github.com:warp-ds/release-playground.git",
   "version": "0.0.1",
   "description": "",
