@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/warp-ds/release-playground/compare/v1.0.0...v1.0.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* dummy change to trigger release ([67bc98b](https://github.com/warp-ds/release-playground/commit/67bc98b6955a0f633320973a7dd0506c0dc35423))
+* publish to npm@next ([#2](https://github.com/warp-ds/release-playground/issues/2)) ([e3b97d2](https://github.com/warp-ds/release-playground/commit/e3b97d2bef5a4580b32269f74d74619d7dd6ba29))
+
 ## [1.0.1-next.1](https://github.com/warp-ds/release-playground/compare/v1.0.0...v1.0.1-next.1) (2023-03-07)
 
 
