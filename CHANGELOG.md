@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0) (2023-03-07)
+
+
+### Features
+
+* remove default settings from releaserc ([f5459b4](https://github.com/warp-ds/release-playground/commit/f5459b46996cd0267c9db7d8748ebc208c4a479d))
+
 # [1.1.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0-next.1) (2023-03-07)
 
 
