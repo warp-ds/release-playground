@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-03-07)
+
+
+### Bug Fixes
+
+* one more dummy change ([bb9fd28](https://github.com/warp-ds/release-playground/commit/bb9fd2806a57836083e93078be9b5c977adb85ef))
+
 # [1.1.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0-next.1) (2023-03-07)
 
 
