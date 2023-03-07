@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/release-playground",
   "repository": "git@github.com:warp-ds/release-playground.git",
-  "version": "0.0.1",
+  "version": "1.0.1-next.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -12,5 +12,8 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "semantic-release": "^20.1.1",
     "@semantic-release/git": "github:semantic-release/git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
