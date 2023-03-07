@@ -1,16 +1,9 @@
-# [1.1.0-next.3](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.2...v1.1.0-next.3) (2023-03-07)
+# [1.1.0](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0) (2023-03-07)
 
 
 ### Features
 
-* one more dummy change ([7328272](https://github.com/warp-ds/release-playground/commit/7328272e61cc4056a615ceadeb98effab53d4592))
-
-# [1.1.0-next.2](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-03-07)
-
-
-### Bug Fixes
-
-* one more dummy change ([bb9fd28](https://github.com/warp-ds/release-playground/commit/bb9fd2806a57836083e93078be9b5c977adb85ef))
+* remove default settings from releaserc ([f5459b4](https://github.com/warp-ds/release-playground/commit/f5459b46996cd0267c9db7d8748ebc208c4a479d))
 
 # [1.1.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0-next.1) (2023-03-07)
 
