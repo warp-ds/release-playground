@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-03-08)
+
+
+### Features
+
+* trigger release 1.2.0@next.1 ([#17](https://github.com/warp-ds/release-playground/issues/17)) ([5303908](https://github.com/warp-ds/release-playground/commit/5303908b7d5cfbc8e5fa24f3bbe8f6e3b5a929cc))
+
 # [1.1.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0-next.1) (2023-03-08)
 
 
