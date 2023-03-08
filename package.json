@@ -7,6 +7,7 @@
   "scripts": {
     "build": "esbuild --bundle index.js --outdir=dist"
   },
+  "files": ["dist"],
   "keywords": [],
   "author": "",
   "license": "ISC",
