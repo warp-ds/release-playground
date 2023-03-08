@@ -3,7 +3,7 @@
   "repository": "git@github.com:warp-ds/release-playground.git",
   "version": "1.4.0-next.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "esbuild --bundle index.js --outdir=dist"
   },
