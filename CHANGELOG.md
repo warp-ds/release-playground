@@ -1,3 +1,10 @@
+## [1.2.1-next.1](https://github.com/warp-ds/release-playground/compare/v1.2.0...v1.2.1-next.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* Remove index.js from root in published package ([#24](https://github.com/warp-ds/release-playground/issues/24)) ([6a937e0](https://github.com/warp-ds/release-playground/commit/6a937e09af74ee85627cf7ea9fb2b1b4aba506f1))
+
 # [1.2.0](https://github.com/warp-ds/release-playground/compare/v1.1.0...v1.2.0) (2023-03-08)
 
 
