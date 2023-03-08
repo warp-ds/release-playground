@@ -1,3 +1,10 @@
+# [1.1.0-next.3](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.2...v1.1.0-next.3) (2023-03-08)
+
+
+### Features
+
+* wait for 1.1.0-[@next](https://github.com/next).3 to fail ([#18](https://github.com/warp-ds/release-playground/issues/18)) ([a87830e](https://github.com/warp-ds/release-playground/commit/a87830e68cacf9d89a18913b10e55d0b24247a33))
+
 # [1.1.0-next.2](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-03-08)
 
 
