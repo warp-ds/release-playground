@@ -1,3 +1,10 @@
+# [1.5.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.4.0...v1.5.0-next.1) (2023-03-08)
+
+
+### Features
+
+* Test automated back merge from main to next ([#35](https://github.com/warp-ds/release-playground/issues/35)) ([7bbc622](https://github.com/warp-ds/release-playground/commit/7bbc62299b14ed7fd652029573c1fdec0b08cd28))
+
 # [1.4.0](https://github.com/warp-ds/release-playground/compare/v1.3.0...v1.4.0) (2023-03-08)
 
 
