@@ -5,6 +5,7 @@ on:
       - main
 jobs:
   push:
+    if: github.event.commits[0].author.name == 'semantic-release-bot'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
