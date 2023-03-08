@@ -1,3 +1,10 @@
+# [1.4.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.3.1-next.1...v1.4.0-next.1) (2023-03-08)
+
+
+### Features
+
+* Add tarball config to semantic-release the correct way ([#28](https://github.com/warp-ds/release-playground/issues/28)) ([18a9a3b](https://github.com/warp-ds/release-playground/commit/18a9a3be509138bf1cec41e8845f467bdf61201e))
+
 ## [1.3.1-next.1](https://github.com/warp-ds/release-playground/compare/v1.3.0...v1.3.1-next.1) (2023-03-08)
 
 
