@@ -1,9 +1,9 @@
 {
   "name": "@warp-ds/release-playground",
   "repository": "git@github.com:warp-ds/release-playground.git",
-  "version": "1.3.0",
+  "version": "1.4.0-next.2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "esbuild --bundle index.js --outdir=dist"
   },

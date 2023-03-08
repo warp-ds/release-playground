@@ -1,3 +1,31 @@
+# [1.4.0-next.2](https://github.com/warp-ds/release-playground/compare/v1.4.0-next.1...v1.4.0-next.2) (2023-03-08)
+
+
+### Bug Fixes
+
+* Removed root index.js from package... again. ([#29](https://github.com/warp-ds/release-playground/issues/29)) ([0d37915](https://github.com/warp-ds/release-playground/commit/0d37915c5b6a3fffba352b8fda09af1385c74bf9))
+
+# [1.4.0-next.1](https://github.com/warp-ds/release-playground/compare/v1.3.1-next.1...v1.4.0-next.1) (2023-03-08)
+
+
+### Features
+
+* Add tarball config to semantic-release the correct way ([#28](https://github.com/warp-ds/release-playground/issues/28)) ([18a9a3b](https://github.com/warp-ds/release-playground/commit/18a9a3be509138bf1cec41e8845f467bdf61201e))
+
+## [1.3.1-next.1](https://github.com/warp-ds/release-playground/compare/v1.3.0...v1.3.1-next.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* Remove index.js from root in published package ([#24](https://github.com/warp-ds/release-playground/issues/24)) ([6a937e0](https://github.com/warp-ds/release-playground/commit/6a937e09af74ee85627cf7ea9fb2b1b4aba506f1))
+
+## [1.2.1-next.1](https://github.com/warp-ds/release-playground/compare/v1.2.0...v1.2.1-next.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* Remove index.js from root in published package ([#24](https://github.com/warp-ds/release-playground/issues/24)) ([6a937e0](https://github.com/warp-ds/release-playground/commit/6a937e09af74ee85627cf7ea9fb2b1b4aba506f1))
+
 # [1.3.0](https://github.com/warp-ds/release-playground/compare/v1.2.0...v1.3.0) (2023-03-08)
 
 
