@@ -5,6 +5,18 @@
 
 * Remove index.js from root in published package ([#24](https://github.com/warp-ds/release-playground/issues/24)) ([6a937e0](https://github.com/warp-ds/release-playground/commit/6a937e09af74ee85627cf7ea9fb2b1b4aba506f1))
 
+# [1.3.0](https://github.com/warp-ds/release-playground/compare/v1.2.0...v1.3.0) (2023-03-08)
+
+
+### Features
+
+* Add tarball config ([#25](https://github.com/warp-ds/release-playground/issues/25)) ([87a2a4c](https://github.com/warp-ds/release-playground/commit/87a2a4cd77815264b60490ac4deb1c7c8a9f5cc6)), closes [#24](https://github.com/warp-ds/release-playground/issues/24) [#24](https://github.com/warp-ds/release-playground/issues/24)
+
+
+### Reverts
+
+* Revert "feat: Add tarball config (#25)" (#26) ([3590cd1](https://github.com/warp-ds/release-playground/commit/3590cd1d8d4c49b6efeddca9f19daa1f704cafa3)), closes [#25](https://github.com/warp-ds/release-playground/issues/25) [#26](https://github.com/warp-ds/release-playground/issues/26)
+
 # [1.2.0](https://github.com/warp-ds/release-playground/compare/v1.1.0...v1.2.0) (2023-03-08)
 
 
