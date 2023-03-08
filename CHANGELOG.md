@@ -1,3 +1,11 @@
+# [1.0.0-next.3](https://github.com/warp-ds/release-playground/compare/v1.0.0-next.2...v1.0.0-next.3) (2023-03-08)
+
+
+### Bug Fixes
+
+* add build step to workflow ([#10](https://github.com/warp-ds/release-playground/issues/10)) ([620d985](https://github.com/warp-ds/release-playground/commit/620d985a3f3969939d8fb16c15323b40145f2f32))
+* refine install step in workflow ([#11](https://github.com/warp-ds/release-playground/issues/11)) ([6005124](https://github.com/warp-ds/release-playground/commit/60051242ee0e24805cd30610e00df7b6288084d0))
+
 # 1.0.0-next.1 (2023-03-07)
 
 
