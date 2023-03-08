@@ -1,3 +1,10 @@
+# [1.0.0-next.4](https://github.com/warp-ds/release-playground/compare/v1.0.0-next.3...v1.0.0-next.4) (2023-03-08)
+
+
+### Bug Fixes
+
+* restrict what to publish to npm ([#13](https://github.com/warp-ds/release-playground/issues/13)) ([c6dcfb8](https://github.com/warp-ds/release-playground/commit/c6dcfb8420e937a7feb2f7f133e296d0a8cb705b))
+
 # 1.0.0 (2023-03-08)
 
 
