@@ -1,3 +1,13 @@
+# [1.1.0](https://github.com/warp-ds/release-playground/compare/v1.0.1...v1.1.0) (2023-03-08)
+
+
+### Features
+
+* trigger feature release ([#16](https://github.com/warp-ds/release-playground/issues/16)) ([8711587](https://github.com/warp-ds/release-playground/commit/87115872ce4ecf50e315ddfe4b508b8de69716a3))
+* trigger release 1.2.0@next.1 ([#17](https://github.com/warp-ds/release-playground/issues/17)) ([5303908](https://github.com/warp-ds/release-playground/commit/5303908b7d5cfbc8e5fa24f3bbe8f6e3b5a929cc))
+* wait for 1.1.0-[@next](https://github.com/next).3 to fail ([#18](https://github.com/warp-ds/release-playground/issues/18)) ([a87830e](https://github.com/warp-ds/release-playground/commit/a87830e68cacf9d89a18913b10e55d0b24247a33))
+* wait for 1.1.0-[@next](https://github.com/next).4 to SUCCEED ([#19](https://github.com/warp-ds/release-playground/issues/19)) ([4e79a73](https://github.com/warp-ds/release-playground/commit/4e79a73300dd32c38c79f81f2b3188a55e274d4f))
+
 # [1.1.0-next.4](https://github.com/warp-ds/release-playground/compare/v1.1.0-next.3...v1.1.0-next.4) (2023-03-08)
 
 
