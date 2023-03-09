@@ -1,0 +1,16 @@
+name: Update next
+on:
+  push:
+    branches:
+      - main
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rebase next to main
+        uses: actions/checkout@v3
+        run: |
+            git fetch --unshallow
+            git checkout next
+            git rebase origin/main
+            git push
