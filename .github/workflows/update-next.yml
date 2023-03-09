@@ -1,0 +1,15 @@
+name: Update next
+on:
+  push:
+    branches:
+      - main
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rebase next to main
+        run: |
+            git fetch --unshallow
+            git checkout next
+            git rebase origin/main
+            git push
