@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/warp-ds/release-playground/compare/v1.5.1...v1.5.2) (2023-03-09)
+
+
+### Bug Fixes
+
+* restore actions/checkout to access the repository from workflow ([ec5dcfa](https://github.com/warp-ds/release-playground/commit/ec5dcfa049655ef822ffe913d94cd1d4c8f6d72e))
+
 ## [1.5.2-next.1](https://github.com/warp-ds/release-playground/compare/v1.5.1...v1.5.2-next.1) (2023-03-09)
 
 
