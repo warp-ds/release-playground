@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/warp-ds/release-playground/compare/v1.5.0...v1.5.1) (2023-03-09)
+
+
+### Bug Fixes
+
+* rebase instead of merge in github action ([66e7049](https://github.com/warp-ds/release-playground/commit/66e70491749af2dc3e34c25572637803821d3ad7))
+* remove actions/checkout@v3 ([b1cea11](https://github.com/warp-ds/release-playground/commit/b1cea111f1fe3cea3b35aa5c47192914cefa7b3e))
+
 ## [1.5.1-next.2](https://github.com/warp-ds/release-playground/compare/v1.5.1-next.1...v1.5.1-next.2) (2023-03-09)
 
 
