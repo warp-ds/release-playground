@@ -5,7 +5,6 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"no tests\"",
     "build": "esbuild --bundle index.js --outdir=dist"
   },
   "files": [
