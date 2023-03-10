@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/warp-ds/release-playground/compare/v1.5.2...v1.5.3) (2023-03-10)
+
+
+### Bug Fixes
+
+* remove redundant step in the release workflow ([c7dbc1f](https://github.com/warp-ds/release-playground/commit/c7dbc1fc22877e12b80aa2e5930a430dffbd5124))
+
 ## [1.5.3-next.1](https://github.com/warp-ds/release-playground/compare/v1.5.2...v1.5.3-next.1) (2023-03-10)
 
 
