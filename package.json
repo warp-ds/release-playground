@@ -1,10 +1,11 @@
 {
   "name": "@warp-ds/release-playground",
   "repository": "git@github.com:warp-ds/release-playground.git",
-  "version": "1.5.3",
+  "version": "1.5.4-next.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
+    "commit": "cz",
     "build": "esbuild --bundle index.js --outdir=dist"
   },
   "files": [
@@ -17,9 +18,15 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/git": "github:semantic-release/git",
     "esbuild": "^0.17.11",
-    "semantic-release": "^20.1.1"
+    "semantic-release": "^20.1.1",
+    "cz-conventional-changelog": "^3.3.0"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

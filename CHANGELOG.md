@@ -1,3 +1,10 @@
+## [1.5.4-next.1](https://github.com/warp-ds/release-playground/compare/v1.5.3...v1.5.4-next.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* Try new workflow for rebasing main ([#53](https://github.com/warp-ds/release-playground/issues/53)) ([bc72bb5](https://github.com/warp-ds/release-playground/commit/bc72bb5dc07ecd5cf2d7ec8fc22eef3db2447af3))
+
 ## [1.5.3](https://github.com/warp-ds/release-playground/compare/v1.5.2...v1.5.3) (2023-03-10)
 
 
