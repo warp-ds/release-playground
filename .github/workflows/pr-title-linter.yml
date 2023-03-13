@@ -41,7 +41,7 @@ jobs:
           result-encoding: json
           script: |
             const prTitle = ${{steps.pr-title.outputs.result}};
-            const regex = new RegExp('^(chore|docs|feat|fix|perf|refactor|style|test)((.+))?:(.+)');
+            const regex = new RegExp('^(chore|docs|feat|fix|perf|refactor|style|test|build|revert)((.+))?:(.+)');
             return !regex.test(prTitle);
       - name: Update PR Comment
         uses: actions/github-script@v6
