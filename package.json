@@ -28,5 +28,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "eik": {
+    "server": "https://assets.finn.no",
+    "files": "./dist"
   }
 }
