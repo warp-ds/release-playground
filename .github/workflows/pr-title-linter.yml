@@ -59,14 +59,15 @@ jobs:
               return comment.user.type === 'Bot' && comment.body.includes('Incorrect Pull Request Title Format')
             });
 
-            const body = `**Incorrect Pull Request Title Format**
-              The title of this pull request does not appear to match the commit message format.
-              \`\`\`
-              Examples from Commitizen
-              \`\`\`
-              ![](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)
-            `;
             if (${{steps.pr-title-check.outputs.result}}) {
+              const body = `**Incorrect Pull Request Title Format**
+                The title of this pull request does not appear to match the commit message format.
+                \`\`\`
+                Examples from Commitizen
+                \`\`\`
+                ![](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)
+              `;
+
               // If we have a comment, update it, otherwise create a new one
               if (botComment) {
                 github.rest.issues.updateComment({
@@ -86,11 +87,11 @@ jobs:
               return;
             }
             if (botComment) {
-              github.rest.issues.deleteComment({
+              github.rest.issues.updateComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 comment_id: botComment.id,
-                body,
+                body: `:sparkles: **Valid Pull Request Title Format** :sparkles:`,
               });
               return;
             }
