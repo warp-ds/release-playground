@@ -6,7 +6,9 @@
   "main": "dist/index.js",
   "scripts": {
     "commit": "cz",
-    "build": "esbuild --bundle index.js --outdir=dist"
+    "build": "esbuild --bundle index.js --outdir=dist",
+    "eik:login": "npx @eik/cli login",
+    "eik:publish": "npx @eik/cli publish"
   },
   "files": [
     "dist",
@@ -29,5 +31,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "eik": {
+    "server": "https://assets.finn.no",
+    "files": "./dist"
   }
 }
