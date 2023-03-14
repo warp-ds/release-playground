@@ -9,8 +9,7 @@
     "build": "esbuild --bundle index.js --outdir=dist"
   },
   "files": [
-    "dist",
-    "CHANGELOG.md"
+    "dist"
   ],
   "keywords": [],
   "author": "",
