@@ -7,8 +7,8 @@
   "scripts": {
     "commit": "cz",
     "build": "esbuild --bundle index.js --outdir=dist",
-    "eik:login": "npx @eik/cli login",
-    "eik:publish": "npx @eik/cli publish"
+    "eik:login": "eik login",
+    "eik:publish": "eik publish"
   },
   "files": [
     "dist",
@@ -18,11 +18,12 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@eik/cli": "^2.0.22",
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/git": "github:semantic-release/git",
+    "cz-conventional-changelog": "^3.3.0",
     "esbuild": "^0.17.11",
-    "semantic-release": "^20.1.1",
-    "cz-conventional-changelog": "^3.3.0"
+    "semantic-release": "^20.1.1"
   },
   "publishConfig": {
     "access": "public"
