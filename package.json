@@ -34,6 +34,7 @@
     }
   },
   "eik": {
-    "server": "https://assets.finn.no"
+    "server": "https://assets.finn.no",
+    "files": "./dist"
   }
 }
