@@ -6,27 +6,21 @@
   "packageRules": [
     {
       "depTypeList": ["dependencies"],
-      "schedule": ["before 4am on monday"],
-      "automerge": false,
-      "major": {
-        "automerge": false
-      }
+      "schedule": ["before 4am on monday"]
     },
     {
       "depTypeList": ["devDependencies"],
-      "schedule": ["before 4am on monday"],
-      "automerge": false,
-      "major": {
-        "automerge": false
-      }
+      "schedule": ["before 4am on monday"]
     },
     {
       "groupName": "All dependencies (non-major)",
+      "schedule": ["before 4am on monday"],
       "matchDepTypes": ["dependencies"],
       "matchUpdateTypes": ["patch", "minor"]
     },
     {
       "groupName": "Semantic Release packages",
+      "schedule": ["before 4am on monday"],
       "matchDepTypes": ["devDependencies"],
       "matchPackagePatterns": ["^@semantic-release/", "semantic-release"]
     }
