@@ -6,16 +6,18 @@
   "packageRules": [
     {
       "depTypeList": ["dependencies"],
+      "updateTypes": ["major"],
       "schedule": ["before 4am on monday"]
     },
     {
       "depTypeList": ["devDependencies"],
+      "updateTypes": ["major"],
       "schedule": ["before 4am on monday"]
     },
     {
       "groupName": "All dependencies (non-major)",
       "schedule": ["before 4am on monday"],
-      "matchDepTypes": ["dependencies"],
+      "matchDepTypes": ["dependencies", "devDependencies"],
       "matchUpdateTypes": ["patch", "minor"]
     },
     {
