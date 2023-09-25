@@ -1,3 +1,10 @@
+## [1.5.6-next.3](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.2...v1.5.6-next.3) (2023-09-25)
+
+
+### Bug Fixes
+
+* update renovate ([7dc97a6](https://github.com/warp-ds/release-playground/commit/7dc97a642bff3b35dea357c9e156c6b17385022e))
+
 ## [1.5.6-next.2](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.1...v1.5.6-next.2) (2023-03-20)
 
 
