@@ -22,7 +22,7 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/git": "github:semantic-release/git",
     "cz-conventional-changelog": "^3.3.0",
-    "esbuild": "^0.17.11",
+    "esbuild": "^0.19.0",
     "semantic-release": "^20.1.1"
   },
   "publishConfig": {
