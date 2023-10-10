@@ -1,3 +1,10 @@
+## [1.5.6-next.4](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.3...v1.5.6-next.4) (2023-10-10)
+
+
+### Bug Fixes
+
+* trigger release to test major version ([#98](https://github.com/warp-ds/release-playground/issues/98)) ([c6638e2](https://github.com/warp-ds/release-playground/commit/c6638e25d17bf1824565075330ff4c176e6536b6))
+
 ## [1.5.6-next.3](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.2...v1.5.6-next.3) (2023-09-25)
 
 
