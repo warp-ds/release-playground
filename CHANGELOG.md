@@ -1,3 +1,10 @@
+## [1.5.6-next.5](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.4...v1.5.6-next.5) (2024-01-15)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release to v23 ([7b0fd35](https://github.com/warp-ds/release-playground/commit/7b0fd350e7638114457d96724587309b46c89f38))
+
 ## [1.5.6-next.4](https://github.com/warp-ds/release-playground/compare/v1.5.6-next.3...v1.5.6-next.4) (2023-10-10)
 
 
