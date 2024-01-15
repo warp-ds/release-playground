@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/release-playground",
   "repository": "git@github.com:warp-ds/release-playground.git",
-  "version": "1.5.5",
+  "version": "1.5.6-next.5",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "@semantic-release/changelog": "github:semantic-release/changelog",
     "@semantic-release/git": "github:semantic-release/git",
     "cz-conventional-changelog": "^3.3.0",
-    "esbuild": "^0.17.11",
-    "semantic-release": "^20.1.1"
+    "esbuild": "^0.19.11",
+    "semantic-release": "^23.0.0"
   },
   "publishConfig": {
     "access": "public"
@@ -34,7 +34,6 @@
     }
   },
   "eik": {
-    "server": "https://assets.finn.no",
-    "files": "./dist"
+    "server": "https://assets.finn.no"
   }
 }
