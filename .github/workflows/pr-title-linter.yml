@@ -7,5 +7,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Validate title
-        uses: warp-ds/pr-linter@v1.0.1
+        uses: warp-ds/pr-linter@v1
